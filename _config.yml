@@ -1,0 +1,14 @@
+layout_spectrum: 0.7192361790221184
+typography_spectrum: 0.6329672522842884
+color:
+  brandStrength: 0.5584011869505048
+  lightness: 0.04294204339385033
+  saturation: 0.32996275066398084
+  rhythmicContrast: 0.11947868764400482
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: fletcher
