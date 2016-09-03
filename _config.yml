@@ -11,8 +11,11 @@ color:
     - '#F6E8B1'
     - '#89725B'
 layout_spectrum: 0.7192361790221184
-name: fletcher
+name: my grid experience
 navigation:
   - name: Martha's website
     url: 'http://fletcherstreeturbanridingclub.com/'
+    type: external
+  - name: Wikipedia article
+    url: 'https://en.wikipedia.org/wiki/Fletcher_Street_Urban_Riding_Club'
     type: external
